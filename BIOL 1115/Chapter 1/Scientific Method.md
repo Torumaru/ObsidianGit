@@ -3,10 +3,10 @@ Science derived from Latin word Scientia = "to know"
 
 Alfred Wallace = theory of evolution
 Rosealind Franklin = Chemist, GNA structure
-Susumu Tonegawa
-Marie Maynard Daly
-Har Gobind Khorana
-Susana Lopez Charreton
+Susumu Tonegawa = molecular biologist, Discovery of VJ recombination (genetic mechanism that produces antibody diversity)
+Marie Maynard Daly = biochemist, relationship between high cholesterol and clogged arteries
+Har Gobind Khorana = biochemist, building different RNA chains with the help of enzymes
+Susana Lopez Charreton = virologist, viral entry into the human body
 
 Scientific method - systematic method to gather knowledge
 	Observation - must be testable statement
