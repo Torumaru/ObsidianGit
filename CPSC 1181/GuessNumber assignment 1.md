@@ -1,9 +1,22 @@
-Difficulty makes game harder for player or algorithm? 
-
 
 
 Testing Plans
 
-| Input | Expected output | Actual output |
-| ----- | --------------- | ------------- |
-|       |                 |               |
+| Input                           | Reason                                                                               | Expected output                     | Actual output                                                                                                                        |
+| ------------------------------- | ------------------------------------------------------------------------------------ | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| ok                              | Test if infoPopup is functioning properly                                            | goes to next panel                  | goes to next panel                                                                                                                   |
+| x (close button)                | Test if user can exit program when they want to                                      | closes program                      | closes program                                                                                                                       |
+| no (when prompt to play again)  | Test if user can leave program                                                       | closes program                      | closes program                                                                                                                       |
+| yes (when prompt to play again) | Test if program loops                                                                | restarts loop                       | "Welcome to Guess Number Game In this game the program will try to guess the number you are thinking of using a set of calculations" |
+| 0 (final result) easy           | testing 0 on easy                                                                    | 0                                   | 0                                                                                                                                    |
+| -10 (final result easy)         | testing negative value on easy                                                       | -1                                  | -1                                                                                                                                   |
+| 10 (easy final result)          | testing positive value on easy                                                       | 1                                   | 1                                                                                                                                    |
+| ABC                             | Test if program can detect bad inputs without numbers and prompt user to enter again | should prompt user to enter again   | "Please enter your final result as a integer"                                                                                        |
+| -2 (final result) normal        | testing 0 on normal                                                                  | 0                                   | 0                                                                                                                                    |
+| 46 (final result normal)        | testing positive value on normal                                                     | 12                                  | 12                                                                                                                                   |
+| -46 (final result normal)       | testing negative value on normal                                                     | -11                                 | -11                                                                                                                                  |
+| =12                             | Test if program can detect bad results that contains numbers                         | should prompt user again            | "Please enter your final result as a integer"                                                                                        |
+| +12                             | test if viewed as valid result                                                       | program continues with calculations | program continues with calculations                                                                                                  |
+| -2 (hard final result)          | test if zero works on hard                                                           | 0                                   | 0                                                                                                                                    |
+| 47 (hard final result)          | test positive value on hard                                                          | 49                                  | 49                                                                                                                                   |
+| -51                             | test negative value on hard                                                          | -49                                 | -49                                                                                                                                  |
