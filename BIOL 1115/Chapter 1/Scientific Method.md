@@ -2,7 +2,7 @@ Science derived from Latin word Scientia = "to know"
 	Systematic way of gathering knowledge about the world and organizing it into theories and laws
 
 Alfred Wallace = theory of evolution
-Rosealind Franklin = Chemist, GNA structure
+Rosealind Franklin = Chemist, DNA structure
 Susumu Tonegawa = molecular biologist, Discovery of VJ recombination (genetic mechanism that produces antibody diversity)
 Marie Maynard Daly = biochemist, relationship between high cholesterol and clogged arteries
 Har Gobind Khorana = biochemist, building different RNA chains with the help of enzymes
