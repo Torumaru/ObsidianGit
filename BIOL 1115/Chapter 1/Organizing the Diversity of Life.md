@@ -9,6 +9,7 @@ Phylogenetic Trees
 	- species that share several traits are grouped together
 	- We can model these proposed relationships among different groups of organisms (taxa) using phylogenetic trees
 	- therefore, a phylogenetic tree is an illustration of a hypothesis about the relationship among taxa
+	- monophyletic group
 - ![[Pasted image 20250110170542.png]]
 
 **The Three Domains of Life**

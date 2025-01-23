@@ -20,3 +20,8 @@ Essential elements of life - Carbon, Hydrogen, Oxygen, and Nitrogen make up 96% 
 Atom - element consists of unique atoms
 - atom is smallest unit of matter that still retains the properties of an elements
 - composed of subatomic particles
+
+Chemical bonds and chemical reaction difference
+- Chemical bonds are the attractions that hold atoms together, while chemical reactions are processes that involve
+
+dissociate

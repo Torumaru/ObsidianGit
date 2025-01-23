@@ -36,4 +36,4 @@ Urban geography - An urban geographer studies geographical urban spaces and urba
 1. Functional definitions
 	-  conurbation - a region comprising a number of metropolises, cities, large towns, and other urban areas which, through population growth and physical expansion, have merged to form one continuous urban or industrially developed area
 
-MSC ( malaysia special economic zone )
+The physical manifestation of bigger forces at work social, environmental, economic
